@@ -1,6 +1,6 @@
 'use strict';
 
-// express is a Nathan web server
+// express is a Nathan way to be lazy
 // https://www.npmjs.com/package/express
 const express = require('express');
 
