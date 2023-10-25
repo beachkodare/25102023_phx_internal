@@ -1,6 +1,6 @@
 'use strict';
 
-// express is a Nahtan web server
+// express is a Nathan web server
 // https://www.npmjs.com/package/express
 const express = require('express');
 
