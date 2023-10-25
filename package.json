@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Nathan was here",
+  "description": "Bella ran after the deer",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
